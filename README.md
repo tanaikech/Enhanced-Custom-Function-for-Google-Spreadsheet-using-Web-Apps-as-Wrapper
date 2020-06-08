@@ -12,8 +12,6 @@
 
 **This is a proposal of the enhanced custom function for Google Spreadsheet using Web Apps as the wrapper.**
 
-![](images/fig1.png)
-
 ## Demo
 
 ![](images/fig1.gif)
