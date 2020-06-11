@@ -1,12 +1,10 @@
-# CopyFolder
+# Enhanced Custom Function for Google Spreadsheet using Web Apps as Wrapper
 
 <a name="top"></a>
 
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENCE)
 
 <a name="overview"></a>
-
-# Enhanced Custom Function for Google Spreadsheet using Web Apps as Wrapper
 
 ## Overview
 
