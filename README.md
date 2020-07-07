@@ -204,6 +204,7 @@ Please put the following function to a cell. By this, the background colors are 
 ```
 
 ## IMPORTANT
+- These sample scripts put the below rows of the formula. So when the formula is put to the continuous rows, it might not be able to be used. But, this is not the bug. Because these sample scripts are the simple sample scripts for confirming this methodology of "the enhanced custom function for Google Spreadsheet using Web Apps as the wrapper". So please be careful this.**
 
 - In the current stage, the maximum execution time of the custom function is 30 seconds. [Ref](https://developers.google.com/apps-script/guides/services/quotas) Please be careful this.
 
